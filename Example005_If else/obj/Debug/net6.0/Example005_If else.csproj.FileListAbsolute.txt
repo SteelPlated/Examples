@@ -1,0 +1,15 @@
+C:\Users\Мися\Desktop\Examples\Example005_If else\bin\Debug\net6.0\Example005_If else.exe
+C:\Users\Мися\Desktop\Examples\Example005_If else\bin\Debug\net6.0\Example005_If else.deps.json
+C:\Users\Мися\Desktop\Examples\Example005_If else\bin\Debug\net6.0\Example005_If else.runtimeconfig.json
+C:\Users\Мися\Desktop\Examples\Example005_If else\bin\Debug\net6.0\Example005_If else.dll
+C:\Users\Мися\Desktop\Examples\Example005_If else\bin\Debug\net6.0\Example005_If else.pdb
+C:\Users\Мися\Desktop\Examples\Example005_If else\obj\Debug\net6.0\Example005_If else.csproj.AssemblyReference.cache
+C:\Users\Мися\Desktop\Examples\Example005_If else\obj\Debug\net6.0\Example005_If else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мися\Desktop\Examples\Example005_If else\obj\Debug\net6.0\Example005_If else.AssemblyInfoInputs.cache
+C:\Users\Мися\Desktop\Examples\Example005_If else\obj\Debug\net6.0\Example005_If else.AssemblyInfo.cs
+C:\Users\Мися\Desktop\Examples\Example005_If else\obj\Debug\net6.0\Example005_If else.csproj.CoreCompileInputs.cache
+C:\Users\Мися\Desktop\Examples\Example005_If else\obj\Debug\net6.0\Example005_If else.dll
+C:\Users\Мися\Desktop\Examples\Example005_If else\obj\Debug\net6.0\refint\Example005_If else.dll
+C:\Users\Мися\Desktop\Examples\Example005_If else\obj\Debug\net6.0\Example005_If else.pdb
+C:\Users\Мися\Desktop\Examples\Example005_If else\obj\Debug\net6.0\Example005_If else.genruntimeconfig.cache
+C:\Users\Мися\Desktop\Examples\Example005_If else\obj\Debug\net6.0\ref\Example005_If else.dll
